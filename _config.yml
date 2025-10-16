@@ -223,4 +223,4 @@ compress_html:
   ignore:
     envs: development
     # rebuild
-
+# rebuild after deleting archive templates
